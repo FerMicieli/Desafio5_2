@@ -1,0 +1,7 @@
+C:\Users\micie\source\repos\Dasafio5_2\Dasafio5_2\bin\Debug\Dasafio5_2.exe.config
+C:\Users\micie\source\repos\Dasafio5_2\Dasafio5_2\bin\Debug\Dasafio5_2.exe
+C:\Users\micie\source\repos\Dasafio5_2\Dasafio5_2\bin\Debug\Dasafio5_2.pdb
+C:\Users\micie\source\repos\Dasafio5_2\Dasafio5_2\obj\Debug\Desafio5_2.csprojAssemblyReference.cache
+C:\Users\micie\source\repos\Dasafio5_2\Dasafio5_2\obj\Debug\Desafio5_2.csproj.CoreCompileInputs.cache
+C:\Users\micie\source\repos\Dasafio5_2\Dasafio5_2\obj\Debug\Dasafio5_2.exe
+C:\Users\micie\source\repos\Dasafio5_2\Dasafio5_2\obj\Debug\Dasafio5_2.pdb
